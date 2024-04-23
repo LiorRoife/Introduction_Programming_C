@@ -1,2 +1,2 @@
 # Introduction_to_C
-Introduction to C contains 6 exercises solution in C language and helpfull functions file.
+"Introduction_to_C" repository contains 6 exercises solutions in C language and helpful functions file.
